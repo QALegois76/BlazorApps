@@ -2,6 +2,15 @@ using MiniGames.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.ConfigureKestrel(serverOption =>
+{
+    serverOption.ListenAnyIP(80);
+    serverOption.ListenAnyIP(443, listenOption =>
+    {
+        listenOption.UseHttps();
+    });
+});
+
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
@@ -15,6 +24,7 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
 
 app.UseHttpsRedirection();
 
