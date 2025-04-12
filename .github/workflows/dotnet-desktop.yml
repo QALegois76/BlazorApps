@@ -2,7 +2,7 @@ name: Deploy Blazor WebAssembly to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # Or 'master' if that's your default
+    branches: [ master ]  # Or 'master' if that's your default
 
 jobs:
   build:
