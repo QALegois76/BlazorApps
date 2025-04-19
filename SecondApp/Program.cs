@@ -7,15 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.WebHost.ConfigureKestrel(options =>
-{
-    options.ConfigureHttpsDefaults(httpsOptions =>
-    {
-        httpsOptions.ServerCertificate = new X509Certificate2(
-            "/etc/letsencrypt/live/antoine-legois.fr/fullchain.pem",
-            "/etc/letsencrypt/live/antoine-legois.fr/privkey.pem");
-    });
-});
+
 
 var app = builder.Build();
 
