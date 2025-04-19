@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SecondApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SecondApp.4y7hxbtqee.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\js\\simon.js",
+      "PackagePath": "staticwebassets\\js\\simon.js"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\images\\map.png",
+      "PackagePath": "staticwebassets\\res\\images\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\images\\ruler.png",
+      "PackagePath": "staticwebassets\\res\\images\\ruler.png"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button1.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button1.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button2.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button2.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button3.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button3.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button4.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button4.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button5.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button5.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Button6.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Button6.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Correct.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Correct.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Correct2.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\Correct2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\Incorrect.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\Incorrect.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\btn1.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\btn1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\btn2.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\btn2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\btn3.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\btn3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\btn4.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\btn4.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\SecondApp\\wwwroot\\res\\sounds\\incorect2.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\incorect2.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SecondApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SecondApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SecondApp.props",
+      "PackagePath": "build\\SecondApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SecondApp.props",
+      "PackagePath": "buildMultiTargeting\\SecondApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SecondApp.props",
+      "PackagePath": "buildTransitive\\SecondApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

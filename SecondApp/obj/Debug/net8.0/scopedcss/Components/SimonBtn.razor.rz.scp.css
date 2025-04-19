@@ -1,0 +1,53 @@
+.simon-circle[b-fi5z7603rv] {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 50px auto;
+    border-radius: 50%;
+    background-color: #333;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.simon-button[b-fi5z7603rv] {
+    width: 50%;
+    height: 50%;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+
+    .simon-button:hover[b-fi5z7603rv] {
+        opacity: 1;
+    }
+
+/* Positionnement et couleur des 4 zones */
+.top-left[b-fi5z7603rv] {
+    background-color: red;
+    border-top-left-radius: 100%;
+}
+
+.top-right[b-fi5z7603rv] {
+    background-color: green;
+    border-top-right-radius: 100%;
+}
+
+.bottom-left[b-fi5z7603rv] {
+    background-color: yellow;
+    border-bottom-left-radius: 100%;
+}
+
+.bottom-right[b-fi5z7603rv] {
+    background-color: blue;
+    border-bottom-right-radius: 100%;
+}
+
+/* Animation visuelle quand actif */
+.simon-button.active[b-fi5z7603rv] {
+    opacity: 1 !important;
+    filter: brightness(150%);
+    box-shadow: 0 0 15px white;
+    transition: all 0.2s;
+}

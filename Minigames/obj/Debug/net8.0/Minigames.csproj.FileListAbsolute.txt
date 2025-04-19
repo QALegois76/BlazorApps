@@ -1050,6 +1050,6 @@ C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\sco
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\bagdczxngo-5z90s42y4u.gz
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\ibdo61dndn-47li9wjxov.gz
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\cxnssjvqgk-1qlstbgw2g.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\f4dodn0tp5-39g4f79dbv.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\4sf6anb2zb-79nwao8n51.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\p2fwunb17a-ehv39eu3if.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\f4dodn0tp5-9chw9ejfwy.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\4sf6anb2zb-fc1ra6hy16.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Debug\net8.0\compressed\p2fwunb17a-sf59hzepce.gz

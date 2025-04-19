@@ -1,10 +1,14 @@
+wwwroot\404.html
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
 wwwroot\icon-192.png
 wwwroot\index.html
+wwwroot\js\game.js
 wwwroot\js\simon.js
+wwwroot\res\images\map.png
+wwwroot\res\images\ruler.png
 wwwroot\res\sounds\btn1.mp3
 wwwroot\res\sounds\btn2.mp3
 wwwroot\res\sounds\btn3.mp3

@@ -1,0 +1,31 @@
+﻿@using MudBlazor
+@using static Minigames.Pages.HomePage
+@inject IDialogService DialogService
+
+
+
+<MudDialog>
+    <DialogContent>
+        <MudText >Entrez le code d'accès'</MudText>
+        <MudTextField @bind-Value="Code" Label="Code" Required="true" />
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Submit" Color="Color.Primary">Valider</MudButton>
+        <MudButton OnClick="Cancel">Annuler</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+
+     [CascadingParameter]
+    private IMudDialogInstance MudDialog { get; set; }
+
+    [Parameter] public Folder Folder { get; set; }
+
+
+    [Parameter]
+    public string Code { get; set; } = string.Empty;
+
+    void Submit() => MudDialog.Close(DialogResult.Ok(Code));
+    void Cancel() => MudDialog.Cancel();
+}

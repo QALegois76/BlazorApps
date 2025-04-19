@@ -1,0 +1,95 @@
+﻿@page "/antoine"
+@implements IDisposable
+@using Microsoft.JSInterop
+@inject IJSRuntime JS
+
+
+<canvas id="gameCanvas" width="800" height="800" style="border:1px solid black;"></canvas>
+
+<div style="position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); z-index: 1000;">
+    <button class="btn btn-warning btn-lg" @onclick="Restart">RESTART</button>
+</div>
+
+
+
+@code {
+    private bool GameOver = false;
+    private bool GameStart = false;
+    private int BirdY = 300;
+    private int BirdVelocity = 0;
+    private int Gravity = 1;
+    private int PipeX = 500;
+    private int PipeGapY = 400;
+    private int PipeHeight = 200;
+    private int Score = 0;
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("initializeGame");
+        }
+    }
+
+    public async void Restart()
+    {
+        await JS.InvokeVoidAsync("initializeGame");
+    }
+
+    // private void Flap()
+    // {
+    //     if (!GameOver)
+    //     {
+    //         BirdVelocity = -10; // Flap force
+    //     }
+    //     else
+    //     {
+    //         RestartGame();
+    //     }
+    // }
+
+    // private void RestartGame()
+    // {
+    //     GameOver = false;
+    //     BirdY = 300;
+    //     BirdVelocity = 0;
+    //     PipeX = 500;
+    //     PipeGapY = 400;
+    //     PipeHeight = 200;
+    //     Score = 0;
+    // }
+
+
+
+    // // Cette méthode sera appelée depuis JS pour mettre à jour le jeu
+    // public void UpdateGame()
+    // {
+    //     if (GameOver) return;
+
+    //     BirdVelocity += Gravity;
+    //     BirdY += BirdVelocity;
+
+    //     // Déplacer les tuyaux
+    //     PipeX -= 5;
+    //     if (PipeX < -50)
+    //     {
+    //         PipeX = 500;
+    //         PipeGapY = new Random().Next(150, 650);
+    //         PipeHeight = new Random().Next(100, 300);
+    //         Score++;
+    //     }
+
+    //     // Collision avec les tuyaux
+    //     if (BirdY > 800 || BirdY < 0 || (PipeX < 50 && PipeX > 0 && (BirdY < PipeGapY - PipeHeight || BirdY > PipeGapY + 100)))
+    //     {
+    //         GameOver = true;
+    //     }
+
+
+    //     // Redessiner
+    //     StateHasChanged();
+    // }
+
+    public void Dispose() { }
+}

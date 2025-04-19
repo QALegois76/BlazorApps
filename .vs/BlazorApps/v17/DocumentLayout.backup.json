@@ -3,39 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\component\\flappybird.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\component\\flappybird.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\wwwroot\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\pages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\pages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\pages\\simonsgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\pages\\simonsgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\component\\simonbtn.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\component\\simonbtn.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\wwwroot\\js\\simon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\wwwroot\\js\\simon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\component\\simonbtn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\component\\simonbtn.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qaleg\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\pages\\simonsgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\pages\\simonsgame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|c:\\users\\qaleg\\source\\repos\\blazorapps\\blazorapps\\minigames\\component\\codeprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82D69F1-584B-4650-9E57-FC99A3EFF814}|Minigames\\Minigames.csproj|solutionrelative:minigames\\component\\codeprompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,48 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 37,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SimonBtn.razor",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor",
-              "RelativeDocumentMoniker": "Minigames\\Component\\SimonBtn.razor",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor",
-              "RelativeToolTip": "Minigames\\Component\\SimonBtn.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T07:47:31.094Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "404.html",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\404.html",
-              "RelativeDocumentMoniker": "Minigames\\wwwroot\\404.html",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\404.html",
-              "RelativeToolTip": "Minigames\\wwwroot\\404.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-19T14:11:37.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomePage.razor",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\HomePage.razor",
-              "RelativeDocumentMoniker": "Minigames\\Pages\\HomePage.razor",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\HomePage.razor",
-              "RelativeToolTip": "Minigames\\Pages\\HomePage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T13:24:38.673Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
@@ -233,79 +202,152 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimonBtn.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor",
+              "RelativeDocumentMoniker": "Minigames\\Component\\SimonBtn.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor",
+              "RelativeToolTip": "Minigames\\Component\\SimonBtn.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T07:47:31.094Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlappyBird.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\FlappyBird.razor",
+              "RelativeDocumentMoniker": "Minigames\\Component\\FlappyBird.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\FlappyBird.razor",
+              "RelativeToolTip": "Minigames\\Component\\FlappyBird.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T17:09:31.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Minigames\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
-              "RelativeToolTip": "Minigames\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-19T13:19:24.504Z",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Minigames\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Minigames\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:56:01.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddressBinder.cs",
-              "DocumentMoniker": "C:\\Users\\qaleg\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs",
-              "ToolTip": "C:\\Users\\qaleg\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44aa595dc2a1078aa662bebf92f46ec0aa83d37961bfc5ec1f12f1b995219153\\AddressBinder.cs [Read Only]",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAhwLYAAAAQAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T09:02:22.812Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Minigames\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Minigames\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T09:01:51.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "simon.js",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\simon.js",
-              "RelativeDocumentMoniker": "Minigames\\wwwroot\\js\\simon.js",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\simon.js",
-              "RelativeToolTip": "Minigames\\wwwroot\\js\\simon.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-13T08:50:03.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimonBtn.razor.css",
-              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor.css",
-              "RelativeDocumentMoniker": "Minigames\\Component\\SimonBtn.razor.css",
-              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\SimonBtn.razor.css",
-              "RelativeToolTip": "Minigames\\Component\\SimonBtn.razor.css",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T07:48:42.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SimonsGame.razor",
               "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\SimonsGame.razor",
               "RelativeDocumentMoniker": "Minigames\\Pages\\SimonsGame.razor",
               "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\SimonsGame.razor",
               "RelativeToolTip": "Minigames\\Pages\\SimonsGame.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T07:34:37.396Z",
+              "WhenOpened": "2025-04-19T16:54:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Program.cs",
+              "RelativeDocumentMoniker": "Minigames\\Program.cs",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Program.cs",
+              "RelativeToolTip": "Minigames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:41:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\App.razor",
+              "RelativeDocumentMoniker": "Minigames\\App.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\App.razor",
+              "RelativeToolTip": "Minigames\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:41:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\_Imports.razor",
+              "RelativeDocumentMoniker": "Minigames\\_Imports.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\_Imports.razor",
+              "RelativeToolTip": "Minigames\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:41:31.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CodePrompt.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\CodePrompt.razor",
+              "RelativeDocumentMoniker": "Minigames\\Component\\CodePrompt.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Component\\CodePrompt.razor",
+              "RelativeToolTip": "Minigames\\Component\\CodePrompt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:38:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Minigames\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
+              "RelativeToolTip": "Minigames\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-19T16:32:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.razor",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\HomePage.razor",
+              "RelativeDocumentMoniker": "Minigames\\Pages\\HomePage.razor",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\Pages\\HomePage.razor",
+              "RelativeToolTip": "Minigames\\Pages\\HomePage.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T16:30:25.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
+              "RelativeDocumentMoniker": "Minigames\\wwwroot\\js\\game.js",
+              "ToolTip": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
+              "RelativeToolTip": "Minigames\\wwwroot\\js\\game.js",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-19T17:10:10.572Z",
               "EditorCaption": ""
             }
           ]

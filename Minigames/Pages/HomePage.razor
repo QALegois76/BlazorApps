@@ -1,42 +1,52 @@
 ﻿@page "/"
+@using Minigames.Component
+@inject NavigationManager Navigation
+@inject IDialogService DialogService
 
 <h3>HomePage</h3>
 
 <p>Welcome to the Minigames homepage! Choose a game to play.</p>
 
-<div class="row">
 
 
-    <div class="col">
-        <NavLink href="/simon">Simon/</NavLink>
-    </div>
-    
-    <div class="col">
-        <NavLink href="simon">Simon</NavLink>
-    </div>
 
-
-    <div class="col">
-        <a href="/tictactoe" class="btn btn-primary">Tic Tac Toe</a>
-    </div>
-    <div class="col">
-        <a href="/memory" class="btn btn-primary">Memory</a>
-    </div>
-
-    <div class="col">
-        <a href="/whackamole" class="btn btn-primary">Whack-a-Mole</a>
-    </div>
-    <div class="col">
-        <a href="/snake" class="btn btn-primary">Snake</a>
-    </div>
-    <div class="col">
-        <a href="/flappybird" class="btn btn-primary">Flappy Bird</a>
-    </div>
-    <div class="col">
-        <a href="/2048" class="btn btn-primary">2048</a>
-    </div>
-    </div>
+<MudGrid>
+    @foreach (var folder in Folders)
+    {
+        <MudItem xs="6" sm="4" md="3" lg="2">
+            <MudPaper Class="pa-4 text-center cursor-pointer" Style="cursor: pointer;" @onclick="@(() => OpenFolder(folder))">
+                <MudIcon Icon="@folder.Icon" Size="Size.Large" />
+                <div>@folder.Name</div>
+            </MudPaper>
+        </MudItem>
+    }
+</MudGrid>
 
 @code {
+    public record Folder(string Name, string Icon, string Page, string Code);
 
+    List<Folder> Folders = new()
+    {
+        new("Le jeu de Simon", Icons.Material.Filled.Folder, "/simon", "1234"),
+        new("Le Jeu d'Antoine", Icons.Material.Filled.Folder, "/antoine", "5678"),
+        new("Journal d'Antoine partie 1", Icons.Material.Filled.Folder, "/antoine", "5678"),
+        new("Journal d'Antoine partie 2", Icons.Material.Filled.Folder, "/antoine", "5678"),
+        new("Journal de Simon partie 1", Icons.Material.Filled.Folder, "/antoine", "5678"),
+        new("Journal de Simon partie 2", Icons.Material.Filled.Folder, "/antoine", "5678"),
+    };
+
+    async Task OpenFolder(Folder folder)
+    {
+        var dialog = DialogService.Show<CodePrompt>("Entrez le code");
+        var result = await dialog.Result;
+
+        if (!result.Canceled && result.Data is string inputCode && inputCode == folder.Code)
+        {
+            Navigation.NavigateTo(folder.Page);
+        }
+        else if (!result.Canceled)
+        {
+            // Mauvais code entré, affiche un message si tu veux
+        }
+    }
 }
