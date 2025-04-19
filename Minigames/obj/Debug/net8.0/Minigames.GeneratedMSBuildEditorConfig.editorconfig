@@ -31,6 +31,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/SimonsGame.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltb25zR2FtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
