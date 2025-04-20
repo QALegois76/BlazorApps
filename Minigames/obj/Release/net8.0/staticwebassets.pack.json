@@ -37,12 +37,24 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
+      "PackagePath": "staticwebassets\\js\\game.js"
+    },
+    {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\simon.js",
       "PackagePath": "staticwebassets\\js\\simon.js"
     },
     {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\background.png",
+      "PackagePath": "staticwebassets\\res\\images\\background.png"
+    },
+    {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\map.png",
       "PackagePath": "staticwebassets\\res\\images\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\poule.png",
+      "PackagePath": "staticwebassets\\res\\images\\poule.png"
     },
     {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\ruler.png",
@@ -85,24 +97,24 @@
       "PackagePath": "staticwebassets\\res\\sounds\\Incorrect.wav"
     },
     {
-      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn1.mp3",
-      "PackagePath": "staticwebassets\\res\\sounds\\btn1.mp3"
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\blue.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\blue.mp3"
     },
     {
-      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn2.mp3",
-      "PackagePath": "staticwebassets\\res\\sounds\\btn2.mp3"
-    },
-    {
-      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn3.mp3",
-      "PackagePath": "staticwebassets\\res\\sounds\\btn3.mp3"
-    },
-    {
-      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn4.mp3",
-      "PackagePath": "staticwebassets\\res\\sounds\\btn4.mp3"
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\green.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\green.mp3"
     },
     {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\incorect2.mp3",
       "PackagePath": "staticwebassets\\res\\sounds\\incorect2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\red.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\red.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\yellow.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\yellow.mp3"
     },
     {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\sample-data\\weather.json",

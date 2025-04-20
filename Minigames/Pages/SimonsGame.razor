@@ -128,13 +128,13 @@
         for (int i =0; i<currentStep; i++)
         {
             var color = Sequence[i];
-            await JS.InvokeVoidAsync("playSound", PATH_SOUND + color.ToString() + ".mp3");
+            await JS.InvokeVoidAsync("playSound", PATH_SOUND + color.ToString().ToLower() + ".mp3");
             activeColor = color;
             StateHasChanged();
-            await Task.Delay(600);
+            await Task.Delay(1000);
             activeColor = null;
             StateHasChanged();
-            await Task.Delay(200);
+            await Task.Delay(400);
         }
     }
 

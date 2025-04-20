@@ -3,7 +3,7 @@
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\SecondApp\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-04-19T16:09:29.5266122Z||;True|2025-04-19T18:06:38.6580686+02:00||;True|2025-04-19T18:03:57.1608362+02:00||;True|2025-04-19T18:02:47.0133938+02:00||;</History>
+    <History>True|2025-04-20T08:57:23.7394494Z||;True|2025-04-19T18:09:29.5266122+02:00||;True|2025-04-19T18:06:38.6580686+02:00||;True|2025-04-19T18:03:57.1608362+02:00||;True|2025-04-19T18:02:47.0133938+02:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

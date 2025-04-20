@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Minigames",
   "resources": {
-    "hash": "sha256-XdC5u/+udleC22VTFPwukLwtE8nmRH9Pp8PfuFLWWzU=",
+    "hash": "sha256-P0RiLKvAPMaoTrvP8iNY+YznmbpDyBl2wUKf3oeRmso=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -212,10 +212,10 @@
       "mscorlib.wasm": "sha256-BeLfFpg9iS3DkEdywsYY7sV6ML3knqkMaMq0JBEbWlw=",
       "netstandard.wasm": "sha256-VkjUtJ6DK5bFTc2JwwGHmQY3tBcNSC7zMSJXuiXcnJA=",
       "System.Private.CoreLib.wasm": "sha256-VIQEPUSb48N39LR+ncGDP5xU02xuRbyZU8MhMho26wQ=",
-      "Minigames.wasm": "sha256-wPe56pYOfjWcruyssVlrJxAexLhX/Y7B6f6j4t0Az4Q="
+      "Minigames.wasm": "sha256-22qSGFTyxB+md2eOhLFlyHBQLZxuKYuPpycOP8LFP74="
     },
     "pdb": {
-      "Minigames.pdb": "sha256-HjE4lFqO3UtooQFEcIhaynYuBAf1AYuI8b8sZCm/L6w="
+      "Minigames.pdb": "sha256-3Lz51rZryJ8et5xG0IOjvyzvTIzR4LaeLPCJcptUAy8="
     }
   },
   "cacheBootResources": true,

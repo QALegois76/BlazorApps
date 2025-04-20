@@ -824,7 +824,6 @@ C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\w
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\webcil\netstandard.wasm
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\webcil\System.Private.CoreLib.wasm
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\webcil\Minigames.wasm
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\scopedcss\Component\SimonBtn.razor.rz.scp.css
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\scopedcss\bundle\Minigames.styles.css
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\scopedcss\projectbundle\Minigames.bundle.scp.css
@@ -1050,6 +1049,6 @@ C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\M
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\refint\Minigames.dll
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\Minigames.pdb
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\ref\Minigames.dll
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\f4dodn0tp5-oi2i7tnjkp.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\4sf6anb2zb-usp61a644q.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\p2fwunb17a-2q255bfea9.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\f4dodn0tp5-t6zkihrjzx.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\4sf6anb2zb-gn1m7hs43s.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\p2fwunb17a-yhjtkfh3sm.gz

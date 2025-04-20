@@ -5,13 +5,13 @@ wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\favicon.png
 wwwroot\icon-192.png
 wwwroot\index.html
+wwwroot\js\game.js
 wwwroot\js\simon.js
+wwwroot\res\images\background.png
 wwwroot\res\images\map.png
+wwwroot\res\images\poule.png
 wwwroot\res\images\ruler.png
-wwwroot\res\sounds\btn1.mp3
-wwwroot\res\sounds\btn2.mp3
-wwwroot\res\sounds\btn3.mp3
-wwwroot\res\sounds\btn4.mp3
+wwwroot\res\sounds\blue.mp3
 wwwroot\res\sounds\Button1.wav
 wwwroot\res\sounds\Button2.wav
 wwwroot\res\sounds\Button3.wav
@@ -20,6 +20,9 @@ wwwroot\res\sounds\Button5.wav
 wwwroot\res\sounds\Button6.wav
 wwwroot\res\sounds\Correct.wav
 wwwroot\res\sounds\Correct2.mp3
+wwwroot\res\sounds\green.mp3
 wwwroot\res\sounds\incorect2.mp3
 wwwroot\res\sounds\Incorrect.wav
+wwwroot\res\sounds\red.mp3
+wwwroot\res\sounds\yellow.mp3
 wwwroot\sample-data\weather.json
