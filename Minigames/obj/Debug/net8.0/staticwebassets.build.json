@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jt2MXTmUC3e6TQ8f7MomFmvqml+28GI5qG6L7cQUtec=",
+  "Hash": "S1/DxkeW5VxN270kAC5NzcHG56Si7hWQzXKp8hflX3g=",
   "Source": "Minigames",
   "BasePath": "/",
   "Mode": "Root",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "sf59hzepce",
-      "Integrity": "OD821kuFTlG298vA6gR23H6fmAfTq6BHZ9f4U/Io8mU=",
+      "Fingerprint": "n3plikiwpp",
+      "Integrity": "U7QFqDMzbo5MaaXadw4G5cg0iCx+II04S86iJAa4cF4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -934,8 +934,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "fc1ra6hy16",
-      "Integrity": "j/HQ8/kZlLEYoH4ulXkBbCqIYJabuy1G2pt0U6jM6dE=",
+      "Fingerprint": "krtvuwui7v",
+      "Integrity": "cGbDiLHBplgMv0wBYbXQxA+BmZv7MSbiiQGsdglTDWk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\Minigames.pdb"
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "9chw9ejfwy",
-      "Integrity": "ybD+zIFiptkTGq7+8zk6GoQ66TrFWw0MplNKoASeb54=",
+      "Fingerprint": "p25dhnhjao",
+      "Integrity": "8ZdKIsSg+xQan3D4RWFXVW1dbY8f44SRK3zGQ0L156A=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\webcil\\Minigames.wasm"
@@ -5057,7 +5057,7 @@
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-fc1ra6hy16.gz",
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-krtvuwui7v.gz",
       "SourceId": "Minigames",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\",
@@ -5071,8 +5071,8 @@
       "RelatedAsset": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Minigames.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5oadqzh5t5",
-      "Integrity": "RY3AkgQnt3U+lg52LfiD0cqrTpG++xU1pJD/QHbJvz0=",
+      "Fingerprint": "vygyk3cxrv",
+      "Integrity": "mfUEIVRYs6KTbY0FupMk/bcXSqF3WkbZmW7bq5/pc6I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Minigames.pdb"
@@ -6107,7 +6107,7 @@
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.wasm"
     },
     {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-9chw9ejfwy.gz",
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-p25dhnhjao.gz",
       "SourceId": "Minigames",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\",
@@ -6121,8 +6121,8 @@
       "RelatedAsset": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Minigames.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "sd58pdr7k9",
-      "Integrity": "wLWswUuyhVjkcF9YNSz5Z+JKTH0+pegH+RcuWwTeH0E=",
+      "Fingerprint": "g83sj2gjr1",
+      "Integrity": "YPpOzbUnFhgGXSPBBH1N157hMb5jOkEYs4uZs0bNzyk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Minigames.wasm"
@@ -7451,7 +7451,7 @@
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.wasm"
     },
     {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-sf59hzepce.gz",
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-n3plikiwpp.gz",
       "SourceId": "Minigames",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mbadvtbwx7",
-      "Integrity": "gjgDG4dyuGMzw9ZJseNW6ZnYa+fOrvxf8gW2Y0f85YY=",
+      "Fingerprint": "5v5f6davp5",
+      "Integrity": "cUWchoX/ISMZKykNrF+VzIW52lQWKSXWMP4WZXIA+pA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8809,8 +8809,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "54ok7lw3tb",
-      "Integrity": "661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=",
+      "Fingerprint": "7834998r4k",
+      "Integrity": "V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Minigames.styles.css"
@@ -8830,8 +8830,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "54ok7lw3tb",
-      "Integrity": "661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=",
+      "Fingerprint": "7834998r4k",
+      "Integrity": "V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Minigames.bundle.scp.css"
@@ -8872,8 +8872,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "swsybuv5hr",
-      "Integrity": "JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=",
+      "Fingerprint": "2zsmk9vr0j",
+      "Integrity": "0rtvR9q/yX76hPyoYho/iGxJUdlqVdw3i6RXzGkOCmQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -8977,8 +8977,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "st3vgct6iv",
-      "Integrity": "4MoHkvHI5IDrrkEyM9hF7EHP2gfHk/x5DH/6WetEliQ=",
+      "Fingerprint": "c5ntrr4sex",
+      "Integrity": "kF6KU51qBEug8D1wsrAJudDx8LyyhERm0ki+Gg9Esv0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -8998,8 +8998,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "h09hbyyuqj",
-      "Integrity": "H2XOdKDIlz3yT+3HtdH4pvh7HrXnnaK5TxPdfWSwjZU=",
+      "Fingerprint": "nb0pqawi0p",
+      "Integrity": "4w89bfpfOQ5l+X5ZHw7LPLe/vA8eMOM4N5hx44X6Hno=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\game.js"
@@ -9026,6 +9026,27 @@
       "OriginalItemSpec": "wwwroot\\js\\simon.js"
     },
     {
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\background.png",
+      "SourceId": "Minigames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "res/images/background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kpzf4htheu",
+      "Integrity": "eCVMqyfeq9ve6ayR3V+kdDCEFB1XBgrImtzFzZnUWpQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\res\\images\\background.png"
+    },
+    {
       "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\map.png",
       "SourceId": "Minigames",
       "SourceType": "Discovered",
@@ -9045,6 +9066,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\res\\images\\map.png"
+    },
+    {
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\poule.png",
+      "SourceId": "Minigames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "res/images/poule#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qe0sdlq5p",
+      "Integrity": "cfUvJes62b/V4DLQ2CIsPRkyzNF3WV603gFr4bQ2OuM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\res\\images\\poule.png"
     },
     {
       "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\ruler.png",
@@ -9068,54 +9110,12 @@
       "OriginalItemSpec": "wwwroot\\res\\images\\ruler.png"
     },
     {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn1.mp3",
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\blue.mp3",
       "SourceId": "Minigames",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "res/sounds/btn1#[.{fingerprint}]?.mp3",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xlsy6l2jc6",
-      "Integrity": "qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\res\\sounds\\btn1.mp3"
-    },
-    {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn2.mp3",
-      "SourceId": "Minigames",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "res/sounds/btn2#[.{fingerprint}]?.mp3",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "22fqljbn6t",
-      "Integrity": "up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\res\\sounds\\btn2.mp3"
-    },
-    {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn3.mp3",
-      "SourceId": "Minigames",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "res/sounds/btn3#[.{fingerprint}]?.mp3",
+      "RelativePath": "res/sounds/blue#[.{fingerprint}]?.mp3",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -9128,28 +9128,7 @@
       "Integrity": "3ft7btUiuf2AeRAe26pS3oz1lbOm1KvpA9qKIT4498Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\res\\sounds\\btn3.mp3"
-    },
-    {
-      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn4.mp3",
-      "SourceId": "Minigames",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "res/sounds/btn4#[.{fingerprint}]?.mp3",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3mj1u2ylgn",
-      "Integrity": "i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\res\\sounds\\btn4.mp3"
+      "OriginalItemSpec": "wwwroot\\res\\sounds\\blue.mp3"
     },
     {
       "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\Button1.wav",
@@ -9320,6 +9299,27 @@
       "OriginalItemSpec": "wwwroot\\res\\sounds\\Correct2.mp3"
     },
     {
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\green.mp3",
+      "SourceId": "Minigames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "res/sounds/green#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3mj1u2ylgn",
+      "Integrity": "i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\res\\sounds\\green.mp3"
+    },
+    {
       "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\incorect2.mp3",
       "SourceId": "Minigames",
       "SourceType": "Discovered",
@@ -9360,6 +9360,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\res\\sounds\\Incorrect.wav"
+    },
+    {
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\red.mp3",
+      "SourceId": "Minigames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "res/sounds/red#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xlsy6l2jc6",
+      "Integrity": "qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\res\\sounds\\red.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\yellow.mp3",
+      "SourceId": "Minigames",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "res/sounds/yellow#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "22fqljbn6t",
+      "Integrity": "up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\res\\sounds\\yellow.mp3"
     },
     {
       "Identity": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\sample-data\\weather.json",
@@ -9567,11 +9609,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OD821kuFTlG298vA6gR23H6fmAfTq6BHZ9f4U/Io8mU=\""
+          "Value": "\"U7QFqDMzbo5MaaXadw4G5cg0iCx+II04S86iJAa4cF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:49:41 GMT"
+          "Value": "Sun, 20 Apr 2025 08:54:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9581,18 +9623,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OD821kuFTlG298vA6gR23H6fmAfTq6BHZ9f4U/Io8mU="
+          "Value": "sha256-U7QFqDMzbo5MaaXadw4G5cg0iCx+II04S86iJAa4cF4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-sf59hzepce.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-n3plikiwpp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000111607143"
+          "Quality": "0.000111594688"
         }
       ],
       "ResponseHeaders": [
@@ -9602,15 +9644,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8959"
+          "Value": "8960"
         },
         {
           "Name": "ETag",
-          "Value": "\"gjgDG4dyuGMzw9ZJseNW6ZnYa+fOrvxf8gW2Y0f85YY=\""
+          "Value": "\"cUWchoX/ISMZKykNrF+VzIW52lQWKSXWMP4WZXIA+pA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9630,19 +9672,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OD821kuFTlG298vA6gR23H6fmAfTq6BHZ9f4U/Io8mU=\""
+          "Value": "W/\"U7QFqDMzbo5MaaXadw4G5cg0iCx+II04S86iJAa4cF4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OD821kuFTlG298vA6gR23H6fmAfTq6BHZ9f4U/Io8mU="
+          "Value": "sha256-U7QFqDMzbo5MaaXadw4G5cg0iCx+II04S86iJAa4cF4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-sf59hzepce.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\p2fwunb17a-n3plikiwpp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9651,7 +9693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8959"
+          "Value": "8960"
         },
         {
           "Name": "Content-Type",
@@ -9659,11 +9701,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gjgDG4dyuGMzw9ZJseNW6ZnYa+fOrvxf8gW2Y0f85YY=\""
+          "Value": "\"cUWchoX/ISMZKykNrF+VzIW52lQWKSXWMP4WZXIA+pA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9681,7 +9723,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gjgDG4dyuGMzw9ZJseNW6ZnYa+fOrvxf8gW2Y0f85YY="
+          "Value": "sha256-cUWchoX/ISMZKykNrF+VzIW52lQWKSXWMP4WZXIA+pA="
         }
       ]
     },
@@ -15176,7 +15218,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30572"
+          "Value": "32572"
         },
         {
           "Name": "Content-Type",
@@ -15184,11 +15226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j/HQ8/kZlLEYoH4ulXkBbCqIYJabuy1G2pt0U6jM6dE=\""
+          "Value": "\"cGbDiLHBplgMv0wBYbXQxA+BmZv7MSbiiQGsdglTDWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:49:41 GMT"
+          "Value": "Sun, 20 Apr 2025 08:54:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15198,18 +15240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j/HQ8/kZlLEYoH4ulXkBbCqIYJabuy1G2pt0U6jM6dE="
+          "Value": "sha256-cGbDiLHBplgMv0wBYbXQxA+BmZv7MSbiiQGsdglTDWk="
         }
       ]
     },
     {
       "Route": "_framework/Minigames.pdb",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-fc1ra6hy16.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-krtvuwui7v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000044134522"
+          "Quality": "0.000040883074"
         }
       ],
       "ResponseHeaders": [
@@ -15219,15 +15261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22657"
+          "Value": "24459"
         },
         {
           "Name": "ETag",
-          "Value": "\"RY3AkgQnt3U+lg52LfiD0cqrTpG++xU1pJD/QHbJvz0=\""
+          "Value": "\"mfUEIVRYs6KTbY0FupMk/bcXSqF3WkbZmW7bq5/pc6I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15247,19 +15289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j/HQ8/kZlLEYoH4ulXkBbCqIYJabuy1G2pt0U6jM6dE=\""
+          "Value": "W/\"cGbDiLHBplgMv0wBYbXQxA+BmZv7MSbiiQGsdglTDWk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j/HQ8/kZlLEYoH4ulXkBbCqIYJabuy1G2pt0U6jM6dE="
+          "Value": "sha256-cGbDiLHBplgMv0wBYbXQxA+BmZv7MSbiiQGsdglTDWk="
         }
       ]
     },
     {
       "Route": "_framework/Minigames.pdb.gz",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-fc1ra6hy16.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\4sf6anb2zb-krtvuwui7v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15268,7 +15310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22657"
+          "Value": "24459"
         },
         {
           "Name": "Content-Type",
@@ -15276,11 +15318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RY3AkgQnt3U+lg52LfiD0cqrTpG++xU1pJD/QHbJvz0=\""
+          "Value": "\"mfUEIVRYs6KTbY0FupMk/bcXSqF3WkbZmW7bq5/pc6I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15298,7 +15340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RY3AkgQnt3U+lg52LfiD0cqrTpG++xU1pJD/QHbJvz0="
+          "Value": "sha256-mfUEIVRYs6KTbY0FupMk/bcXSqF3WkbZmW7bq5/pc6I="
         }
       ]
     },
@@ -15313,7 +15355,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30485"
+          "Value": "34069"
         },
         {
           "Name": "Content-Type",
@@ -15321,11 +15363,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ybD+zIFiptkTGq7+8zk6GoQ66TrFWw0MplNKoASeb54=\""
+          "Value": "\"8ZdKIsSg+xQan3D4RWFXVW1dbY8f44SRK3zGQ0L156A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:49:41 GMT"
+          "Value": "Sun, 20 Apr 2025 08:54:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15335,18 +15377,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ybD+zIFiptkTGq7+8zk6GoQ66TrFWw0MplNKoASeb54="
+          "Value": "sha256-8ZdKIsSg+xQan3D4RWFXVW1dbY8f44SRK3zGQ0L156A="
         }
       ]
     },
     {
       "Route": "_framework/Minigames.wasm",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-9chw9ejfwy.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-p25dhnhjao.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000073561866"
+          "Quality": "0.000065832785"
         }
       ],
       "ResponseHeaders": [
@@ -15356,15 +15398,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13593"
+          "Value": "15189"
         },
         {
           "Name": "ETag",
-          "Value": "\"wLWswUuyhVjkcF9YNSz5Z+JKTH0+pegH+RcuWwTeH0E=\""
+          "Value": "\"YPpOzbUnFhgGXSPBBH1N157hMb5jOkEYs4uZs0bNzyk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15384,19 +15426,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ybD+zIFiptkTGq7+8zk6GoQ66TrFWw0MplNKoASeb54=\""
+          "Value": "W/\"8ZdKIsSg+xQan3D4RWFXVW1dbY8f44SRK3zGQ0L156A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ybD+zIFiptkTGq7+8zk6GoQ66TrFWw0MplNKoASeb54="
+          "Value": "sha256-8ZdKIsSg+xQan3D4RWFXVW1dbY8f44SRK3zGQ0L156A="
         }
       ]
     },
     {
       "Route": "_framework/Minigames.wasm.gz",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-9chw9ejfwy.gz",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\compressed\\f4dodn0tp5-p25dhnhjao.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15405,7 +15447,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13593"
+          "Value": "15189"
         },
         {
           "Name": "Content-Type",
@@ -15413,11 +15455,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wLWswUuyhVjkcF9YNSz5Z+JKTH0+pegH+RcuWwTeH0E=\""
+          "Value": "\"YPpOzbUnFhgGXSPBBH1N157hMb5jOkEYs4uZs0bNzyk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:29:31 GMT"
+          "Value": "Sun, 20 Apr 2025 08:37:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15435,7 +15477,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wLWswUuyhVjkcF9YNSz5Z+JKTH0+pegH+RcuWwTeH0E="
+          "Value": "sha256-YPpOzbUnFhgGXSPBBH1N157hMb5jOkEYs4uZs0bNzyk="
         }
       ]
     },
@@ -38127,6 +38169,51 @@
       ]
     },
     {
+      "Route": "css/app.2zsmk9vr0j.css",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0rtvR9q/yX76hPyoYho/iGxJUdlqVdw3i6RXzGkOCmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 08:52:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zsmk9vr0j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0rtvR9q/yX76hPyoYho/iGxJUdlqVdw3i6RXzGkOCmQ="
+        }
+      ]
+    },
+    {
       "Route": "css/app.css",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\css\\app.css",
       "Selectors": [],
@@ -38137,7 +38224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3782"
+          "Value": "5532"
         },
         {
           "Name": "Content-Type",
@@ -38145,11 +38232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
+          "Value": "\"0rtvR9q/yX76hPyoYho/iGxJUdlqVdw3i6RXzGkOCmQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:23:19 GMT"
+          "Value": "Sun, 20 Apr 2025 08:52:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38159,52 +38246,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.swsybuv5hr.css",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\css\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3782"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 07:23:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "swsybuv5hr"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JOZWd9XYwDyrwjSB0PVTcc602GisYED21qQUCSMlGtI="
+          "Value": "sha256-0rtvR9q/yX76hPyoYho/iGxJUdlqVdw3i6RXzGkOCmQ="
         }
       ]
     },
@@ -38537,6 +38579,51 @@
       ]
     },
     {
+      "Route": "index.c5ntrr4sex.html",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kF6KU51qBEug8D1wsrAJudDx8LyyhERm0ki+Gg9Esv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:23:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c5ntrr4sex"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kF6KU51qBEug8D1wsrAJudDx8LyyhERm0ki+Gg9Esv0="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
       "Selectors": [],
@@ -38547,7 +38634,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1310"
+          "Value": "1351"
         },
         {
           "Name": "Content-Type",
@@ -38555,11 +38642,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4MoHkvHI5IDrrkEyM9hF7EHP2gfHk/x5DH/6WetEliQ=\""
+          "Value": "\"kF6KU51qBEug8D1wsrAJudDx8LyyhERm0ki+Gg9Esv0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:19:08 GMT"
+          "Value": "Sat, 19 Apr 2025 22:23:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38569,97 +38656,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4MoHkvHI5IDrrkEyM9hF7EHP2gfHk/x5DH/6WetEliQ="
-        }
-      ]
-    },
-    {
-      "Route": "index.st3vgct6iv.html",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1310"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4MoHkvHI5IDrrkEyM9hF7EHP2gfHk/x5DH/6WetEliQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:19:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "st3vgct6iv"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4MoHkvHI5IDrrkEyM9hF7EHP2gfHk/x5DH/6WetEliQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/game.h09hbyyuqj.js",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2013"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H2XOdKDIlz3yT+3HtdH4pvh7HrXnnaK5TxPdfWSwjZU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:47:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "h09hbyyuqj"
-        },
-        {
-          "Name": "label",
-          "Value": "js/game.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H2XOdKDIlz3yT+3HtdH4pvh7HrXnnaK5TxPdfWSwjZU="
+          "Value": "sha256-kF6KU51qBEug8D1wsrAJudDx8LyyhERm0ki+Gg9Esv0="
         }
       ]
     },
@@ -38674,7 +38671,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2013"
+          "Value": "4656"
         },
         {
           "Name": "Content-Type",
@@ -38682,11 +38679,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H2XOdKDIlz3yT+3HtdH4pvh7HrXnnaK5TxPdfWSwjZU=\""
+          "Value": "\"4w89bfpfOQ5l+X5ZHw7LPLe/vA8eMOM4N5hx44X6Hno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 17:47:59 GMT"
+          "Value": "Sat, 19 Apr 2025 21:13:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38696,7 +38693,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H2XOdKDIlz3yT+3HtdH4pvh7HrXnnaK5TxPdfWSwjZU="
+          "Value": "sha256-4w89bfpfOQ5l+X5ZHw7LPLe/vA8eMOM4N5hx44X6Hno="
+        }
+      ]
+    },
+    {
+      "Route": "js/game.nb0pqawi0p.js",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4w89bfpfOQ5l+X5ZHw7LPLe/vA8eMOM4N5hx44X6Hno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 21:13:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nb0pqawi0p"
+        },
+        {
+          "Name": "label",
+          "Value": "js/game.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4w89bfpfOQ5l+X5ZHw7LPLe/vA8eMOM4N5hx44X6Hno="
         }
       ]
     },
@@ -38783,7 +38825,7 @@
       ]
     },
     {
-      "Route": "Minigames.54ok7lw3tb.bundle.scp.css",
+      "Route": "Minigames.7834998r4k.bundle.scp.css",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Minigames.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -38793,7 +38835,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2890"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -38801,11 +38843,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=\""
+          "Value": "\"V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:06:52 GMT"
+          "Value": "Sat, 19 Apr 2025 22:14:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38815,7 +38857,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "54ok7lw3tb"
+          "Value": "7834998r4k"
         },
         {
           "Name": "label",
@@ -38823,12 +38865,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE="
+          "Value": "sha256-V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc="
         }
       ]
     },
     {
-      "Route": "Minigames.54ok7lw3tb.styles.css",
+      "Route": "Minigames.7834998r4k.styles.css",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Minigames.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -38838,7 +38880,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2890"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -38846,11 +38888,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=\""
+          "Value": "\"V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:06:52 GMT"
+          "Value": "Sat, 19 Apr 2025 22:14:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38860,7 +38902,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "54ok7lw3tb"
+          "Value": "7834998r4k"
         },
         {
           "Name": "label",
@@ -38868,7 +38910,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE="
+          "Value": "sha256-V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc="
         }
       ]
     },
@@ -38883,7 +38925,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2890"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -38891,11 +38933,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=\""
+          "Value": "\"V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:06:52 GMT"
+          "Value": "Sat, 19 Apr 2025 22:14:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38905,7 +38947,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE="
+          "Value": "sha256-V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc="
         }
       ]
     },
@@ -38920,7 +38962,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2890"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -38928,11 +38970,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE=\""
+          "Value": "\"V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 09:06:52 GMT"
+          "Value": "Sat, 19 Apr 2025 22:14:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38942,7 +38984,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-661IpWudd3bUKA7n6p+UX3ko56THO2jUzLePcxiumhE="
+          "Value": "sha256-V5Zm0Smg51A2wbRadHfbj4QawsPrU2scvI5YuvaH1xc="
+        }
+      ]
+    },
+    {
+      "Route": "res/images/background.kpzf4htheu.png",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCVMqyfeq9ve6ayR3V+kdDCEFB1XBgrImtzFzZnUWpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:17:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpzf4htheu"
+        },
+        {
+          "Name": "label",
+          "Value": "res/images/background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCVMqyfeq9ve6ayR3V+kdDCEFB1XBgrImtzFzZnUWpQ="
+        }
+      ]
+    },
+    {
+      "Route": "res/images/background.png",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "84625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eCVMqyfeq9ve6ayR3V+kdDCEFB1XBgrImtzFzZnUWpQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:17:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eCVMqyfeq9ve6ayR3V+kdDCEFB1XBgrImtzFzZnUWpQ="
         }
       ]
     },
@@ -39029,6 +39153,88 @@
       ]
     },
     {
+      "Route": "res/images/poule.7qe0sdlq5p.png",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\poule.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfUvJes62b/V4DLQ2CIsPRkyzNF3WV603gFr4bQ2OuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:43:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qe0sdlq5p"
+        },
+        {
+          "Name": "label",
+          "Value": "res/images/poule.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfUvJes62b/V4DLQ2CIsPRkyzNF3WV603gFr4bQ2OuM="
+        }
+      ]
+    },
+    {
+      "Route": "res/images/poule.png",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\poule.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfUvJes62b/V4DLQ2CIsPRkyzNF3WV603gFr4bQ2OuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 20:43:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfUvJes62b/V4DLQ2CIsPRkyzNF3WV603gFr4bQ2OuM="
+        }
+      ]
+    },
+    {
       "Route": "res/images/ruler.mw89qivt48.png",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\images\\ruler.png",
       "Selectors": [],
@@ -39111,172 +39317,8 @@
       ]
     },
     {
-      "Route": "res/sounds/btn1.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn1.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2191"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:45:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn1.xlsy6l2jc6.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn1.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2191"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:45:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xlsy6l2jc6"
-        },
-        {
-          "Name": "label",
-          "Value": "res/sounds/btn1.mp3"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn2.22fqljbn6t.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn2.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2346"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:46:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "22fqljbn6t"
-        },
-        {
-          "Name": "label",
-          "Value": "res/sounds/btn2.mp3"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn2.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn2.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2346"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:46:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn3.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn3.mp3",
+      "Route": "res/sounds/blue.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\blue.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -39312,8 +39354,8 @@
       ]
     },
     {
-      "Route": "res/sounds/btn3.v1a5qe7q1d.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn3.mp3",
+      "Route": "res/sounds/blue.v1a5qe7q1d.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\blue.mp3",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -39348,93 +39390,11 @@
         },
         {
           "Name": "label",
-          "Value": "res/sounds/btn3.mp3"
+          "Value": "res/sounds/blue.mp3"
         },
         {
           "Name": "integrity",
           "Value": "sha256-3ft7btUiuf2AeRAe26pS3oz1lbOm1KvpA9qKIT4498Y="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn4.3mj1u2ylgn.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn4.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4531"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:47:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3mj1u2ylgn"
-        },
-        {
-          "Name": "label",
-          "Value": "res/sounds/btn4.mp3"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc="
-        }
-      ]
-    },
-    {
-      "Route": "res/sounds/btn4.mp3",
-      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\btn4.mp3",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4531"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "audio/mpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 08:47:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc="
         }
       ]
     },
@@ -40095,6 +40055,88 @@
       ]
     },
     {
+      "Route": "res/sounds/green.3mj1u2ylgn.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\green.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mj1u2ylgn"
+        },
+        {
+          "Name": "label",
+          "Value": "res/sounds/green.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc="
+        }
+      ]
+    },
+    {
+      "Route": "res/sounds/green.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\green.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:47:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i58+uFRkpzhs3tWo6xSzT4j3Y/qucHuE+qARvKIMzwc="
+        }
+      ]
+    },
+    {
       "Route": "res/sounds/incorect2.mp3",
       "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\incorect2.mp3",
       "Selectors": [],
@@ -40255,6 +40297,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-uCMtnDe10Ezv9KFCIQTWlOE69LD/ITG7QDjY+Veq+fA="
+        }
+      ]
+    },
+    {
+      "Route": "res/sounds/red.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\red.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM="
+        }
+      ]
+    },
+    {
+      "Route": "res/sounds/red.xlsy6l2jc6.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\red.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xlsy6l2jc6"
+        },
+        {
+          "Name": "label",
+          "Value": "res/sounds/red.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyDdg3ey8+P+NbKmwcLZeer1mhLgSkvhxMi2jaNuRPM="
+        }
+      ]
+    },
+    {
+      "Route": "res/sounds/yellow.22fqljbn6t.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\yellow.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:46:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "22fqljbn6t"
+        },
+        {
+          "Name": "label",
+          "Value": "res/sounds/yellow.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc="
+        }
+      ]
+    },
+    {
+      "Route": "res/sounds/yellow.mp3",
+      "AssetFile": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\yellow.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 08:46:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-up9+Tl78IzxoRYSkSDXS0QzRH90YuM5FirXmcyn1zhc="
         }
       ]
     },

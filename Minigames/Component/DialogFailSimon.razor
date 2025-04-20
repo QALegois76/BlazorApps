@@ -1,0 +1,21 @@
+﻿    <!-- MudDialog for Game Over -->
+    <MudDialog >
+        <DialogContent>
+            <MudText Typo="Typo.h6" Align="Align.Center">
+                Game Over! Tu as perdu !
+            </MudText>
+            <MudButton OnClick="ResetGame" Variant="Variant.Filled" Color="Color.Primary">
+                Recommencer
+            </MudButton>
+        </DialogContent>
+    </MudDialog>
+@code {
+
+    [CascadingParameter]
+    private IMudDialogInstance MudDialog { get; set; }
+
+    private void Submit() => MudDialog.Close(DialogResult.Ok(true));
+
+    private void ResetGame() => MudDialog.Cancel();
+
+}

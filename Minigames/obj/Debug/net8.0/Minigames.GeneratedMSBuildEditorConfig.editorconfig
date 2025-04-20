@@ -35,8 +35,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvZGVQcm9tcHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Component/FlappyBird.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZsYXBweUJpcmQucmF6b3I=
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Component/DialogFailSimon.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XERpYWxvZ0ZhaWxTaW1vbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/FlappyBirdGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmxhcHB5QmlyZEdhbWUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/HomePage.razor]
@@ -50,10 +54,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Component/SimonBtn.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFNpbW9uQnRuLnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-cgrcllhs0q
 
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=

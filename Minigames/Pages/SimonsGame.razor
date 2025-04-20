@@ -1,169 +1,221 @@
 ﻿@page "/simon"
 @using Minigames.Component
-
-<h3>Le jeu de Simon</h3>
-
-
-
-
-<SimonBtn/>
+@using MudBlazor
+@inject NavigationManager Navigation
+@inject IDialogService DialogService
+@inject IJSRuntime JS
 
 
-<div class="row">
-	<button class="btn btn-primary" @onclick="StartNewGame">Start New Game</button>
-</div>
 
 
-<div class="row" style="display:@(GameOver ? "block" : "none")">
-	Game Over! Press "Start New Game" to play again.
-</div>
+<MudPaper Class="pa-4" id="paperSimon" style="@gridStyle">
+    <MudText Typo="Typo.h5" Class="mb-2">Jeu de Simon</MudText>
+    <MudText Typo="Typo.h6" Class="mb-2">Code : @_actualCode</MudText>
+    <br />
+    <MudGrid Class="mb-3" >
+        @foreach (var color in Colors)
+        {
+            var clr = color;
+            <MudItem xs="6" sm="6">
+                <MudPaper Elevation="4"
+                Class="@GetClass(color)"
+                Style="@GetStyle(color)"
+                @onclick="@(() =>OnClickColor(clr))"
+                />
+            </MudItem>
+        }
+    </MudGrid>
+
+    <MudButton OnClick="StartGame" class="btn-primary" Color="Color.Primary">Démarrer</MudButton>
+</MudPaper>
 
 
-<div class="row">
-	High Score: @HighScore
-</div>
+<br />
+<br />
 
 
-<div class="alert alert-dismissible alert-secondary">
-	<strong>Rules:</strong>
-	Simon is a memory game. The computer will genernerate a random sequence of button presses. Repeat the pattern back the the computer. Every time you successfully 
-	repeat the pattern another random button is added to it: 1 button, 2 buttons, 3 buttons, etc. Mess up the pattern and you must start from the beginning. Press "Start New Game" to begin.
-</div>
 
-<style>
+<MudTimeline TimelineOrientation="TimelineOrientation.Horizontal" TimelinePosition="TimelinePosition.Bottom" Reverse="false">
+    @for (int i = 0; i < Sequence.Count; i++)
+    {
+        var idx = i;
+        <MudTimelineItem Color="GetColor(idx)" Variant="GetVarient(idx)">
+            <ItemContent>
+                <MudText >Step @idx</MudText>
+            </ItemContent>
+        </MudTimelineItem>
 
-	.controls {
-		margin-top: 1rem;
-	}
 
-		.controls button {
-			margin-right: .5rem;
-			margin-bottom: .5rem;
-		}
+    }
 
-	.simon { width: 4rem; height: 4rem; }
+</MudTimeline>
 
-	.simon.red { background-color: darkred; }
-	.simon.green { background-color: darkgreen; }
-	.simon.blue { background-color: darkblue; }
-	.simon.yellow { background-color: darkgoldenrod; }
 
-	.simon.red.lit { background-color: lightcoral; }
-	.simon.green.lit { background-color: lightgreen; }
-	.simon.blue.lit { background-color: lightblue; }
-	.simon.yellow.lit { background-color: lightgoldenrodyellow; }
+<script>
+    window.playSound = (soundPath) => {
+    //console.log("play sound "+soundPath);
+    const audio = new Audio(soundPath);
+    audio.play();
+    };
+</script>
 
-</style>
 
-@code
-{
-	Random random = new Random();
-	List<Button> pattern = new List<Button>();
-	bool[] IsLit = new bool[4];
-	int Index;
-	int HighScore;
-	bool Busy;
-	bool GameOver;
-	double ButtonTime = 500; // milliseconds
-	bool Started = false;
 
-	void StartNewGame()
-	{
-		if (!Busy)
-		{
-			Started = true;
-			GameOver = false;
-			IsLit[(int)Button.Red] = false;
-			IsLit[(int)Button.Green] = false;
-			IsLit[(int)Button.Blue] = false;
-			IsLit[(int)Button.Yellow] = false;
-			Index = 0;
-			Busy = false;
-			pattern.Clear();
-			pattern.Add((Button)random.Next(4));
-			PlayPattern();
-		}
-	}
 
-	void TryPress(Button button)
-	{
-		if (Busy || GameOver || !Started)
-		{
-			return;
-		}
-		Busy = true;
-		IsLit[(int)button] = true;
-		if (pattern[Index] != button)
-		{
-			GameOver = true;
-		}
-		else
-		{
-			HighScore = Math.Max(Index + 1, HighScore);
-		}
-		Index++;
-		System.Timers.Timer timer = new System.Timers.Timer();
-		timer.Interval = ButtonTime;
-		timer.Elapsed += (_, _) =>
-		{
-			Busy = false;
-			IsLit[(int)button] = false;
-			timer.Enabled = false;
-			StateHasChanged();
-			if (!GameOver && Index >= pattern.Count)
-			{
-				Index = 0;
-				pattern.Add((Button)random.Next(4));
-				PlayPattern();
-			}
-		};
-		timer.Enabled = true;
-		StateHasChanged();
-	}
+@code {
 
-	void PlayPattern()
-	{
-		Busy = true;
-		int index = 0;
-		bool first = true;
-		System.Timers.Timer timer = new System.Timers.Timer();
-		timer.Interval = ButtonTime;
-		timer.Elapsed += (_, _) =>
-		{
-			if (first)
-			{
-				IsLit[(int)pattern[index]] = true;
-				StateHasChanged();
-				first = false;
-				return;
-			}
-			if (IsLit[(int)pattern[index]])
-			{
-				IsLit[(int)pattern[index]] = false;
-				StateHasChanged();
-				return;
-			}
-			index++;
-			if (index >= pattern.Count)
-			{
-				timer.Enabled = false;
-				Busy = false;
-			}
-			else
-			{
-				IsLit[(int)pattern[index]] = true;
-			}
-			StateHasChanged();
-		};
-		timer.Enabled = true;
-		StateHasChanged();
-	}
+    //Style="@GetStyle(color)"
 
-	enum Button
-	{
-		Red = 0,
-		Green = 1,
-		Blue = 2,
-		Yellow = 3,
-	}
+
+    private List<ESimonColor> Colors = new() { ESimonColor.Red, ESimonColor.Yellow, ESimonColor.Blue, ESimonColor.Green };
+    private List<ESimonColor> Sequence = new();
+    private List<ESimonColor> UserInput = new();
+    private int currentStep = 0;
+    private bool isPlaying = false;
+    private ESimonColor? activeColor;
+
+    private bool _gameOverDialogOpen = false;
+
+    private string _actualCode = "";
+    private int idxCode = 0;
+    private string gridStyle = NormalGridStyle;
+
+    private const string NormalGridStyle = "border:solid 2px black";
+    private const string CorrectGridStyle = "border:solid 5px green";
+    private const string IncorrectGridStyle = "border:solid 5px green";
+
+    private const string PATH_SOUND = "res/sounds/";
+    private const string PATH_CORRECT = PATH_SOUND+"Correct2.mp3";
+    private const string PATH_INCORRECT = PATH_SOUND+"incorect2.mp3";
+    private const string FULL_CODE = "123";
+
+
+
+
+
+
+    private async void StartGame()
+    {
+        UserInput.Clear();
+        currentStep = 1;
+        isPlaying = true;
+        idxCode = 0;
+        gridStyle = NormalGridStyle;
+
+        if (Sequence.Count == 0)
+            for (int i = 0; i < 8; i++)
+                AddRandomColor();
+
+        Console.WriteLine(string.Join(" - ", Sequence));
+
+
+        await ShowSequence();
+    }
+
+
+
+
+    private void AddRandomColor()
+    {
+        var rnd = new Random();
+        var color = Colors[rnd.Next(Colors.Count)];
+        Sequence.Add(color);
+    }
+
+    private async Task ShowSequence()
+    {
+        _actualCode = FULL_CODE.Substring(0, Math.Min(idxCode, FULL_CODE.Length));
+        for (int i =0; i<currentStep; i++)
+        {
+            var color = Sequence[i];
+            await JS.InvokeVoidAsync("playSound", PATH_SOUND + color.ToString() + ".mp3");
+            activeColor = color;
+            StateHasChanged();
+            await Task.Delay(600);
+            activeColor = null;
+            StateHasChanged();
+            await Task.Delay(200);
+        }
+    }
+
+
+    private async Task OnClickColor(ESimonColor color)
+    {
+
+        await JS.InvokeVoidAsync("playSound", PATH_SOUND+color.ToString()+".mp3");
+
+
+        if (!isPlaying) return;
+        UserInput.Add(color);
+
+        if (color != Sequence[UserInput.Count - 1])
+        {
+            // Échec
+            await JS.InvokeVoidAsync("playSound", PATH_INCORRECT);
+            gridStyle = IncorrectGridStyle;
+            StateHasChanged();
+
+            var options = new DialogOptions { CloseOnEscapeKey = true };
+
+            await DialogService.ShowAsync<DialogFailSimon>("Simple Dialog", options);
+            StartGame();
+            return;
+        }
+
+        Console.WriteLine("entry remaining : "+(currentStep- UserInput.Count));
+
+        if (UserInput.Count == currentStep)
+        {
+            await JS.InvokeVoidAsync("playSound", PATH_CORRECT);
+            gridStyle = CorrectGridStyle;
+            StateHasChanged();
+            await Task.Delay(500);
+            gridStyle = NormalGridStyle;
+            StateHasChanged();
+
+
+            await Task.Delay(1000);
+            if(UserInput.Count >=Sequence.Count)
+                AddRandomColor();
+
+            currentStep++;
+            idxCode = 0;
+            if (currentStep > 4)
+                idxCode++;
+            if (currentStep > 6)
+                idxCode++;
+            if (currentStep > 8)
+                idxCode++;
+            UserInput.Clear();
+            await ShowSequence();
+        }
+    }
+
+
+
+
+
+    private string GetStyle(ESimonColor color)
+    {
+        return $"background-color:{color};";
+    }
+
+    private string GetClass(ESimonColor color)
+    {
+        return "simon-button"+(activeColor == color ? "-activ":"");
+    }
+
+    private MudBlazor.Variant GetVarient(int idx)
+    {
+        return (idx > currentStep-1) ? Variant.Outlined : Variant.Filled;
+    }
+
+    private MudBlazor.Color GetColor(int idx)
+    {
+        if (idx < currentStep-1)
+            return Color.Success;
+        if (idx > currentStep-1)
+            return Color.Info;
+            return Color.Primary;
+    }
 }
