@@ -1,0 +1,14 @@
+﻿<MudButton OnClick="Play" StartIcon="@Icons.Material.Filled.PlayArrow">
+    Écouter
+</MudButton>
+
+<audio id="@Id" src="@Src" preload="auto"></audio>
+
+@code {
+    [Parameter] public string Id { get; set; } = "narration";
+    [Parameter] public string Src { get; set; } = "";
+
+    [Inject] private IJSRuntime JS { get; set; } = default!;
+
+    private async Task Play() => await JS.InvokeVoidAsync("audioPlayer.play", Id);
+}

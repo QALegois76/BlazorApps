@@ -87,7 +87,7 @@
     private const string PATH_SOUND = "res/sounds/";
     private const string PATH_CORRECT = PATH_SOUND+"Correct2.mp3";
     private const string PATH_INCORRECT = PATH_SOUND+"incorect2.mp3";
-    private const string FULL_CODE = "123";
+    private const string FULL_CODE = "351";
 
 
 
@@ -128,7 +128,7 @@
         for (int i =0; i<currentStep; i++)
         {
             var color = Sequence[i];
-            await JS.InvokeVoidAsync("playSound", PATH_SOUND + color.ToString().ToLower() + ".mp3");
+            await JS.InvokeVoidAsync("playSound",GetSoundFileName(color));
             activeColor = color;
             StateHasChanged();
             await Task.Delay(1000);
@@ -138,11 +138,35 @@
         }
     }
 
+    private string GetSoundFileName(ESimonColor color)
+    {
+        string path = PATH_SOUND;
+
+        switch (color)
+        {
+            case ESimonColor.Red:
+                path += "red.mp3";
+                break;
+            case ESimonColor.Yellow:
+                path += "yellow.mp3";
+                break;
+            case ESimonColor.Blue:
+                path += "blue.mp3";
+                break;
+            case ESimonColor.Green:
+                path += "green.mp3";
+                break;
+        }
+
+        return path;    
+    }
+
 
     private async Task OnClickColor(ESimonColor color)
     {
 
-        await JS.InvokeVoidAsync("playSound", PATH_SOUND+color.ToString()+".mp3");
+        await JS.InvokeVoidAsync("playSound", GetSoundFileName(color));
+
 
 
         if (!isPlaying) return;

@@ -31,6 +31,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Component/AudioPlayer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEF1ZGlvUGxheWVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Component/CodePrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XENvZGVQcm9tcHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +49,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/LogAntoine1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nQW50b2luZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/LogAntoine2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nQW50b2luZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/LogSimon1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nU2ltb24xLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/LogSimon2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nU2ltb24yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/qaleg/source/repos/BlazorApps/BlazorApps/Minigames/Pages/SimonsGame.razor]

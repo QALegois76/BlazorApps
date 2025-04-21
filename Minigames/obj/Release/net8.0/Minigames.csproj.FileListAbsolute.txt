@@ -1049,6 +1049,6 @@ C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\M
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\refint\Minigames.dll
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\Minigames.pdb
 C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\ref\Minigames.dll
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\f4dodn0tp5-t6zkihrjzx.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\4sf6anb2zb-gn1m7hs43s.gz
-C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\p2fwunb17a-yhjtkfh3sm.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\f4dodn0tp5-mb9ocif6ll.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\4sf6anb2zb-elld9tzs8z.gz
+C:\Users\qaleg\source\repos\BlazorApps\BlazorApps\Minigames\obj\Release\net8.0\compressed\p2fwunb17a-plv0jj3ms8.gz

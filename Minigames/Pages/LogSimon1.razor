@@ -1,0 +1,66 @@
+﻿@page "/logSimon1"
+@using Minigames.Component
+@using MudBlazor
+
+<MudContainer Class="vital-page">
+    <MudPaper Elevation="8" Class="vital-document">
+        <MudText Typo="Typo.h4" Align="Align.Center" Class="title">
+            journal de Simon, entrée 1
+            <AudioPlayer Id="logSimon1" Src="res/sounds/simon1.mp3" />
+        </MudText>
+        <MudDivider Class="my-2" />
+        <MudText Typo="Typo.body1" Class="vital-text">
+            Je suis convaincu que le secret de l’immortalité réside dans notre energie électrique. Le corps n’est qu’un conducteur et tous les signaux du corps se font grace à des signaux électrique.
+            Ce que nous appelons “vie” n’est qu’un passage d’électrons un courant, fragile et décroissant tout au long de notre vie. Nous ne mourons pas par usure, mais par décharge.
+            La vieillesse n’est rien d’autre qu’un voltage qui chute, une batterie interne qui perd son potentiel. <br/><br/>
+
+            C’est pourquoi ma recette est fondée sur une dizaine de mole de <strong>lithium</strong> . Ce métal, déjà utilisé pour stabiliser l’âme en médecine moderne, possède un lien profond avec le mouvement des ions,
+            des charges, de l’énergie vitale. En rechargeant notre circuit interne cela restaurera le flux naturel du corps.
+
+        </MudText>
+    </MudPaper>
+</MudContainer>
+
+
+
+
+
+<style>
+    .vital-page {
+        background-color: #f4f1e7;
+        padding: 2rem;
+        min-height: 100vh;
+        background-size: cover;
+        background-attachment: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .vital-document {
+        padding: 2rem;
+        max-width: 900px;
+        background-color: rgba(255, 255, 240, 0.95);
+        border: 1px solid #d6c89e;
+        border-radius: 12px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.3);
+        font-family: "Garamond", serif;
+    }
+
+    .vital-text {
+        font-size: 1.15rem;
+        line-height: 1.75rem;
+        color: #2e2b1f;
+    }
+
+    .title {
+        font-family: "Cinzel Decorative", serif;
+        font-weight: bold;
+        color: #3e362a;
+    }
+</style>
+
+
+@code {
+
+}

@@ -1,0 +1,67 @@
+﻿@page "/logAntoine1"
+@using Minigames.Component
+@using MudBlazor
+
+<MudContainer Class="vital-page">
+    <MudPaper Elevation="8" Class="vital-document">
+        <MudText Typo="Typo.h4" Align="Align.Center" Class="title">
+            journal de Antoine, entrée 1
+            <AudioPlayer Id="logSimon1" Src="res/sounds/antoine1.wav" />
+        </MudText>
+        <MudDivider Class="my-2" />
+        <MudText Typo="Typo.body1" Class="vital-text">
+
+            J’ai basé ma recette sur une dizaine de moles de <strong>bore</strong>. Ce choix n’est pas anodin. Le bore est discret, presque oublié des alchimistes pressés, mais son rôle est fondamental : il gouverne la croissance, façonne les structures, et veille sur les échanges entre les cellules. Dans le monde végétal, il est le souffle invisible qui guide la montée de la sève et la naissance du fruit.
+            <br/><br/>
+            Mais ce que peu savent… c’est qu’il agit aussi sur l’harmonie des éléments. Il stabilise. Il équilibre. Il permet à la matière vivante de se régénérer, de croître sans se corrompre.
+            <br/><br/>
+            C’est pourquoi ses effets me paraissent essentiels pour la formulation de la Vie Éternelle. Non pas une existence figée, mais une vie qui se renouvelle, indéfiniment. Une vie qui pousse, qui s’adapte, qui ne flétrit jamais. 
+
+
+        </MudText>
+    </MudPaper>
+</MudContainer>
+
+
+
+
+
+<style>
+    .vital-page {
+        background-color: #f4f1e7;
+        padding: 2rem;
+        min-height: 100vh;
+        background-size: cover;
+        background-attachment: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .vital-document {
+        padding: 2rem;
+        max-width: 900px;
+        background-color: rgba(255, 255, 240, 0.95);
+        border: 1px solid #d6c89e;
+        border-radius: 12px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.3);
+        font-family: "Garamond", serif;
+    }
+
+    .vital-text {
+        font-size: 1.15rem;
+        line-height: 1.75rem;
+        color: #2e2b1f;
+    }
+
+    .title {
+        font-family: "Cinzel Decorative", serif;
+        font-weight: bold;
+        color: #3e362a;
+    }
+</style>
+
+
+@code {
+
+}

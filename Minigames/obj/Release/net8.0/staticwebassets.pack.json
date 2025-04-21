@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\audioPlayer.js",
+      "PackagePath": "staticwebassets\\js\\audioPlayer.js"
+    },
+    {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\js\\game.js",
       "PackagePath": "staticwebassets\\js\\game.js"
     },
@@ -97,6 +101,14 @@
       "PackagePath": "staticwebassets\\res\\sounds\\Incorrect.wav"
     },
     {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\antoine1.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\antoine1.wav"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\antoine2.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\antoine2.mp3"
+    },
+    {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\blue.mp3",
       "PackagePath": "staticwebassets\\res\\sounds\\blue.mp3"
     },
@@ -111,6 +123,14 @@
     {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\red.mp3",
       "PackagePath": "staticwebassets\\res\\sounds\\red.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\simon1.mp3",
+      "PackagePath": "staticwebassets\\res\\sounds\\simon1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\simon2.wav",
+      "PackagePath": "staticwebassets\\res\\sounds\\simon2.wav"
     },
     {
       "Id": "C:\\Users\\qaleg\\source\\repos\\BlazorApps\\BlazorApps\\Minigames\\wwwroot\\res\\sounds\\yellow.mp3",

@@ -1,0 +1,81 @@
+﻿@page "/logSimon2"
+@using Minigames.Component
+@using MudBlazor
+
+<MudContainer Class="vital-page">
+    <MudPaper Elevation="8" Class="vital-document">
+        <MudText Typo="Typo.h4" Align="Align.Center" Class="title">
+            journal de Simon, entrée 2
+        <AudioPlayer Id="logSimon2" Src="res/sounds/simon2.wav" />
+            </MudText>
+        <MudDivider Class="my-2" />
+        <MudText Typo="Typo.body1" Class="vital-text">
+            Il est observé, chez les nourrissons, une cadence cardiaque effervescente. Le flux vital — ce courant subtil
+            d’électrons internes — y est abondant, presque bouillonnant. Cependant, avec l’âge, cette intensité décline.
+            Le rythme se fait lent. La pile vitale se tarit. La circulation des particules de vie s’amenuise. Ainsi décroît
+            la flamme de l’existence.<br /><br />
+
+            Mon hypothèse est la suivante : ce n’est point l’usure du corps qui mène à la mort, mais l’érosion
+            progressive de cette force électromagnétique interne. Tel un accumulateur défaillant, le potentiel électrique chute,
+            entraînant dans sa chute les fonctions vitales.<br /><br />
+
+            Dans mes travaux, j’ai employé le lithium, élément de charge, connu pour sa propension à restaurer les flux dissipés.
+            Il agit comme catalyseur du retour à la vitalité. Toutefois, je découvris bien vite que l’excès de circulation précipite la perte :
+            un courant trop vif consume la matière, tel un éclair dans la nuit.<br /><br />
+
+            C’est alors que j’introduisis dans la recette une fraction de <strong>béryllium</strong>. Ce métal, bien que périlleux pour l’organisme,
+            possède une haute résistance électrique. À faible dose, il agit non comme conducteur, mais comme régulateur.
+            Il restreint la fuite du flux, prolonge son chemin dans le réseau du vivant.<br /><br />
+
+            Ainsi, le métabolisme ralentit. Le rythme se suspend dans une stabilité quasi-alchimique.
+            Le cœur bat plus rarement, mais plus sûrement. Le corps ne s’épuise plus, il perdure.<br /><br />
+
+            Je crois entrevoir la clef : l’immortalité n’est pas une explosion d’énergie sans fin, mais une maîtrise absolue de sa dissipation.
+            Le feu de la vie n’a pas besoin de flamboyer : il doit brûler lentement, sans vaciller.
+        </MudText>
+    </MudPaper>
+</MudContainer>
+
+
+
+
+
+<style>
+    .vital-page {
+        background-color: #f4f1e7;
+        padding: 2rem;
+        min-height: 100vh;
+        background-size: cover;
+        background-attachment: fixed;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .vital-document {
+        padding: 2rem;
+        max-width: 900px;
+        background-color: rgba(255, 255, 240, 0.95);
+        border: 1px solid #d6c89e;
+        border-radius: 12px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.3);
+        font-family: "Garamond", serif;
+    }
+
+    .vital-text {
+        font-size: 1.15rem;
+        line-height: 1.75rem;
+        color: #2e2b1f;
+    }
+
+    .title {
+        font-family: "Cinzel Decorative", serif;
+        font-weight: bold;
+        color: #3e362a;
+    }
+</style>
+
+
+@code {
+
+}
